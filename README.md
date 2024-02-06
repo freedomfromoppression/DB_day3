@@ -1,5 +1,4 @@
 # DB_day3
-
 /*DML : INSERT 데이터 삽입*/
 -- 1.기본형태 컬럼명 기술
 DROP TABLE ex3_1;
